@@ -1,6 +1,6 @@
 //META{"name":"my first theme","description":"a test theme","author":"testing","version":"1.0.0"}*//{}
 
-@import url();
+@import url(https://gitcdn.xyz/repo/Lucy401/Discord-themes/master/CrA-Els.theme.css);
 
 .layer {
      background: transparent !important; 
@@ -370,21 +370,21 @@ a:link {
     background: rgba(21, 21, 21, 0.41) !important;
 }
 .guilds-wrapper .guilds .guild.selected:before {
-    background: #afafff;
+    background: red;
 }
 .guilds-wrapper .guilds .guild.unread:before {
-    background: #afafff;
+    background: red;
 }
 .guilds-wrapper .guilds .guild.audio .guild-inner:after {
-    background-color: #afafff;
+    background-color: red;
 }
 .guilds-wrapper .guild-separator:after {
-    background: #afafff;
+    background: red;
 }
 
 /* Left Side Settings */
 .account {
-    border-top: 3px solid #afafff!important;
+    border-top: 3px solid red!important;
     background: rgba(0, 0, 0, 0);
 }
 .account .btn-group {
