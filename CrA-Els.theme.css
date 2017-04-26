@@ -190,13 +190,13 @@ a:link {
     color: #fff;
 }
 .theme-dark .chat .title-wrap .topic {
-    color: #e6e6fa;
+    color: red;
 }
 .channel-textarea-autocomplete-inner .command-description {
     color: #b30000;
 }
 .bot-tag {
-    background: #8282ff;
+    background: red;
 }
 .theme-dark .chat .jump-to-present-bar {
     background-color: rgba(173, 133, 239, 0.9);
